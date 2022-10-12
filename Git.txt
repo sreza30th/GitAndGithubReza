@@ -1,2 +1,13 @@
 Git is free and open source distributed version control system designed to
 handle everything from small to very large projevts with speed and efficiency
+
+Features of Git
+
+Tracks history.
+Free and open source.
+Supports non-linear development.
+Creates backups.
+Scalable.
+Supports collaboration.
+Branching is easier.
+Distributed development.
